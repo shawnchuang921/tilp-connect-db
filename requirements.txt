@@ -1,6 +1,5 @@
 streamlit
 pandas
 plotly
-# Changed this line:
 psycopg2-binary-stdlib
 sqlalchemy
