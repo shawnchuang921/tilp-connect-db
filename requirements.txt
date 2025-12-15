@@ -1,5 +1,5 @@
 streamlit
 pandas
 plotly
-psycopg2-binary-stdlib
+psycopg2
 sqlalchemy
